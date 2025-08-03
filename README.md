@@ -13,7 +13,7 @@ I'm a passionate **Web Developer in training**, learning how to build clean, res
 ## 🚀 What I'm Working On
 
 I'm actively learning web development and practicing daily through small projects.  
-I’ve created [repositories on my GitHub profile](https://github.com/amirah-oliver) to document my progress and showcase my growing skills in front-end technologies.
+I’ve created [repositories on my GitHub profile](https://github.com/amirah-oliver) to document my progress and showcase my growing skills in front-end technologies. 
 
 ---
 
