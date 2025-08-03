@@ -21,7 +21,7 @@ I’ve created [repositories on my GitHub profile](https://github.com/amirah-oli
 
 - Responsive web design with **CSS**
 - JavaScript fundamentals
-- Building clean and structured HTML layouts
+- Building clean and structured HTML layouts 
 
 ---
 
