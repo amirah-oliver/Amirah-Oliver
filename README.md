@@ -1,5 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Amirah Oliver!
 
+I'm a passionate Web Developer focused on building fast, accessible, and scalable web applications. I specialize in both frontend and backend technologies, always aiming to create clean, efficient, and maintainable code.
+
+You can check out some of my work in my repositories. 
+
 <!--
 **amirah-oliver/Amirah-Oliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
